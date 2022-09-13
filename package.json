@@ -1,0 +1,27 @@
+{
+  "name": "curso-cypress-subp",
+  "version": "1.0.0",
+  "description": "Curso de Cypress",
+  "main": "open",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaisyRios/CursoCypressUBP.git"
+  },
+  "keywords": [
+    "cypress",
+    "js",
+    "teting"
+  ],
+  "author": "UBP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaisyRios/CursoCypressUBP/issues"
+  },
+  "homepage": "https://github.com/DaisyRios/CursoCypressUBP#readme",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
