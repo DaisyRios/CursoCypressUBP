@@ -2,9 +2,9 @@
   "name": "curso-cypress-subp",
   "version": "1.0.0",
   "description": "Curso de Cypress",
-  "main": "open",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cypress:run:regression:test": "npx cypress run -e baseUrl=http://aytomationteststore.com/ -s cypress/integretion/*.spect.js*"
   },
   "repository": {
     "type": "git",
