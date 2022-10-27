@@ -2,7 +2,7 @@
 //Se llama a los pages
 import EdenPage from "../pages/eden.js";
 
-//Descripcion
+//TEST 1 INICIO
 describe("Test de Página Eden", () => {
   it("Llamada a servicio: /inicio", { tags: ["@regression", "@smoke"] }, () => {
     cy.callService("inicio", "espectaculos");
@@ -15,6 +15,8 @@ describe("Test de Página Eden", () => {
       "puntosdeventa_sch.json"
     );
   });
+
+  //TEST 2 VERIFICAR CARDS
 
   it("Verificar las cards de los espectáculos", { tags: "@regression" }, () => {
     const eden = new EdenPage();

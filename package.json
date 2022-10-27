@@ -23,6 +23,7 @@
   "homepage": "https://github.com/DaisyRios/CursoCypressUBP#readme",
   "dependencies": {
     "ajv": "^8.11.0",
-    "cypress": "^9.7.0"
+    "cypress": "^9.7.0",
+    "mochawesome": "^7.1.3"
   }
 }

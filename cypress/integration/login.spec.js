@@ -14,8 +14,8 @@ describe('example to-do app', () => {
     const login = new LoginPage();
 
     header.getLoginRegisterButon().click();
-    login.getUserInput().type('Daisy');
-    login.getPassInput().type('pass124');
+    login.getUserInput().type('DaisyRios');
+    login.getPassInput().type('automation1');
     login.getLoginBtn().click();
     login.getAlertBox().should("contain.text","Error: Incorrect login or password provided.");
   });
