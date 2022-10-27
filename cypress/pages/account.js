@@ -3,7 +3,7 @@ class accountLocators {
         //title
         //Main buttons
         //Secondary buttons
-        //this.manageAccountBtn = 'a[data-original-title="Manage Address Book"]'; Profe que onda???
+        //this.manageAccountBtn = 'a[data-original-title="Manage Address Book"]'. Esto se mapeo en clase y no funciono
         //Completar formulario
         this.manageAccountBtn =".nav-dash > :nth-child(3) > a > .fa"
         this.addNewAdress = 'a[title="New Address"]';

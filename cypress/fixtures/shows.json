@@ -100,6 +100,16 @@
       "Categorias": "[\"todos\",\"FES\"]",
       "Espectaculos": [
         {
+          "Codigo": "FUNC021167",
+          "Fecha": "2023-02-18T18:00:00",
+          "FechaString": "18 de febrero",
+          "DiaString": "18",
+          "MesString": "febrero",
+          "HoraString": "18:00 Hs",
+          "Ciudad": "DIA 1",
+          "Estadio": "FANATIC ROCK"
+        },
+        {
           "Codigo": "FUNC021066",
           "Fecha": "2023-02-18T18:00:00",
           "FechaString": "18 de febrero",
@@ -107,6 +117,16 @@
           "MesString": "febrero",
           "HoraString": "18:00 Hs",
           "Ciudad": "VALIDO PARA 2 DÍAS",
+          "Estadio": "FANATIC ROCK"
+        },
+        {
+          "Codigo": "FUNC021168",
+          "Fecha": "2023-02-19T18:00:00",
+          "FechaString": "19 de febrero",
+          "DiaString": "19",
+          "MesString": "febrero",
+          "HoraString": "18:00 Hs",
+          "Ciudad": "DIA 2",
           "Estadio": "FANATIC ROCK"
         }
       ],

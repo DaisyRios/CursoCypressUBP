@@ -3,7 +3,7 @@
 import HeaderPage from "../pages/header.js";
 import LoginPage from "../pages/login.js";
 import Account from "../pages/account.js";
-import Data from "../fixtures/users.json";
+import Data from "../fixtures/users2.json";
 
 
 //Se debe agregar el describe para agrupar tests
@@ -32,11 +32,11 @@ describe ('Ejemplo de test basico', () => {
         account.getAddNewAddress().click();
         account.getInputFistName().type("Pedro");
         account.getInputLastName().type("Sotillo");
-        account.getInputCompany ().type("Empresa");
+        account.getInputCompany ().type("Soloempresa");
         account.getInputAddress1().type("Lavalle");
-        account.getInputAddress2().type("Cordoba");
+        account.getInputAddress2().type("Cordoba2");
         account.getInputCity().type("CABA");
-        account.getInputAddressFrmPostCode().type("1111");
+        account.getInputAddressFrmPostCode().type("2222");
         account.getInputCountry().select("Argentina");
         account.getInputAddressFrmZone().select("Buenos Aires");
         account.getInputYesBtn().click();

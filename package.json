@@ -4,7 +4,7 @@
   "description": "Curso de Cypress",
   "main": "index.js",
   "scripts": {
-    "cypress:run:regression:test": "npx cypress run -e baseUrl=http://aytomationteststore.com/ -s cypress/integretion/*.spect.js*"
+    "cypress:run:regression:test": " npx cypress run -e baseUrl=http://aytomationteststore.com/ -s cypress/integretion/miTests.spect.js "
   },
   "repository": {
     "type": "git",
@@ -23,7 +23,10 @@
   "homepage": "https://github.com/DaisyRios/CursoCypressUBP#readme",
   "dependencies": {
     "ajv": "^8.11.0",
-    "cypress": "^9.7.0",
+    "cypress": "^9.7.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.2.3",
     "mochawesome": "^7.1.3"
   }
 }
