@@ -1,0 +1,14 @@
+[
+  {
+    "acronimo": "S1001-R0436-920",
+    "terminal": "NO",
+    "puerto": "1/1/3",
+    "tipoSplitter": 1
+  },
+  {
+    "acronimo": "S1001-R0436-910",
+    "terminal": "NO",
+    "puerto": "1/1/2",
+    "tipoSplitter": 1
+  }
+]

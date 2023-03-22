@@ -16,5 +16,8 @@
 // Import commands.js using ES2015 syntax:
 // Import commands.js using ES2015 syntax:
 import "./commands";
+module.exports = (on, config) => {
+}
+
 // Alternatively you can use CommonJS syntax:
 // require('./commands')

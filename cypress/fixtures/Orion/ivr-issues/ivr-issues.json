@@ -1,0 +1,25 @@
+{
+  "resultMessage": "OK",
+  "data": [
+    {
+      "issueGroupId": 4481,
+      "countryId": 1,
+      "oltName": "ME201-GP-02",
+      "ports": [
+        {
+          "port": "0/11/8",
+          "description": "ME201-R0411-999 - 0/11/8"
+        }
+      ],
+      "issueTypeId": 1,
+      "issueTypeDescription": "TAREAS DE MANTENIMIENTO DEL SERVICIO",
+      "issueReasonId": null,
+      "issueReasonDescription": null,
+      "tmr": null,
+      "startDate": "13/03/2023 00:00:00",
+      "endDate": "13/03/2023 20:00:00",
+      "enabled": true,
+      "incidentId": "156237"
+    }
+  ]
+}

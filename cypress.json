@@ -1,5 +1,8 @@
+
 {
-    "reporter": "mochawesome",
-    "video" : false
+    "viewportWidth": 1500,
+    "viewportHeight": 1000
     
 }
+
+

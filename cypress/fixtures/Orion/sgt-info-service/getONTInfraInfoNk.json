@@ -1,0 +1,18 @@
+{
+  "numeroLinea": null,
+  "macAddress": "F06865567AC0",
+  "splitter1": "CHR02-R0221-901",
+  "splitter2": "CHR02-R0221-903",
+  "splitter3": "null",
+  "splitter4": "null",
+  "oltName": "CHR02-GP-01",
+  "oltIp": "190.220.178.118",
+  "frame": "1",
+  "slot": "13",
+  "port": "3",
+  "ontId": "11",
+  "marcaPlaca": "40",
+  "marcaOLT": "40",
+  "provider": 0,
+  "interopEnabled": true
+}

@@ -1,0 +1,994 @@
+[
+  {
+    "acronimo_olt": "7360-LAB",
+    "ip_olt": "10.160.75.222"
+  },
+  {
+    "acronimo_olt": "BA1597-GP-01",
+    "ip_olt": "190.220.178.185"
+  },
+  {
+    "acronimo_olt": "BA1597-GP-02",
+    "ip_olt": "190.220.178.186"
+  },
+  {
+    "acronimo_olt": "BA1597-GP-03",
+    "ip_olt": "190.220.178.187"
+  },
+  {
+    "acronimo_olt": "BA1597-GP-04",
+    "ip_olt": "190.220.178.238"
+  },
+  {
+    "acronimo_olt": "BA1597-GP-05",
+    "ip_olt": "190.220.178.11"
+  },
+  {
+    "acronimo_olt": "BA213-GP-01",
+    "ip_olt": "190.220.178.134"
+  },
+  {
+    "acronimo_olt": "BA213-GP-02",
+    "ip_olt": "190.220.178.135"
+  },
+  {
+    "acronimo_olt": "BA213-GP-03",
+    "ip_olt": "190.220.178.136"
+  },
+  {
+    "acronimo_olt": "BA213-GP-04",
+    "ip_olt": "190.220.178.137"
+  },
+  {
+    "acronimo_olt": "BA213-GP-05",
+    "ip_olt": "190.220.178.230"
+  },
+  {
+    "acronimo_olt": "BA976-GP-01",
+    "ip_olt": "190.220.178.233"
+  },
+  {
+    "acronimo_olt": "BA976-GP-02",
+    "ip_olt": "190.220.178.234"
+  },
+  {
+    "acronimo_olt": "BPEC-GP-01",
+    "ip_olt": "190.220.178.143"
+  },
+  {
+    "acronimo_olt": "BPSG-GP-01",
+    "ip_olt": "190.220.178.77"
+  },
+  {
+    "acronimo_olt": "BPSG-GP-02",
+    "ip_olt": "190.220.178.237"
+  },
+  {
+    "acronimo_olt": "BPSM-GP-01",
+    "ip_olt": "190.220.178.76"
+  },
+  {
+    "acronimo_olt": "C1154-GP-01",
+    "ip_olt": "190.220.178.162"
+  },
+  {
+    "acronimo_olt": "C1701-GP-01",
+    "ip_olt": "190.220.178.174"
+  },
+  {
+    "acronimo_olt": "C2488-GP-01",
+    "ip_olt": "190.220.178.151"
+  },
+  {
+    "acronimo_olt": "C2740-GP-01",
+    "ip_olt": "190.220.178.231"
+  },
+  {
+    "acronimo_olt": "C2740-GP-02",
+    "ip_olt": "190.220.178.232"
+  },
+  {
+    "acronimo_olt": "C2740-GP-03",
+    "ip_olt": "190.220.178.241"
+  },
+  {
+    "acronimo_olt": "C2740-GP-04",
+    "ip_olt": "190.220.195.3"
+  },
+  {
+    "acronimo_olt": "C2768-GP-01",
+    "ip_olt": "190.220.178.82"
+  },
+  {
+    "acronimo_olt": "C2768-GP-02",
+    "ip_olt": "190.220.178.83"
+  },
+  {
+    "acronimo_olt": "C2768-GP-03",
+    "ip_olt": "190.220.178.103"
+  },
+  {
+    "acronimo_olt": "C2768-GP-04",
+    "ip_olt": "190.220.178.115"
+  },
+  {
+    "acronimo_olt": "C2768-GP-05",
+    "ip_olt": "190.220.178.142"
+  },
+  {
+    "acronimo_olt": "C2769-GP-01",
+    "ip_olt": "190.220.178.84"
+  },
+  {
+    "acronimo_olt": "C2769-GP-02",
+    "ip_olt": "190.220.178.85"
+  },
+  {
+    "acronimo_olt": "C2769-GP-03",
+    "ip_olt": "190.220.178.107"
+  },
+  {
+    "acronimo_olt": "C3397-GP-04",
+    "ip_olt": "190.220.178.34"
+  },
+  {
+    "acronimo_olt": "C5308-GP-01",
+    "ip_olt": "190.220.178.86"
+  },
+  {
+    "acronimo_olt": "C5308-GP-02",
+    "ip_olt": "190.220.178.87"
+  },
+  {
+    "acronimo_olt": "C5308-GP-03",
+    "ip_olt": "190.220.178.94"
+  },
+  {
+    "acronimo_olt": "C5308-GP-04",
+    "ip_olt": "190.220.178.104"
+  },
+  {
+    "acronimo_olt": "C5308-GP-05",
+    "ip_olt": "190.220.178.245"
+  },
+  {
+    "acronimo_olt": "C5309-GP-01",
+    "ip_olt": "190.220.178.93"
+  },
+  {
+    "acronimo_olt": "C5309-GP-02",
+    "ip_olt": "190.220.178.99"
+  },
+  {
+    "acronimo_olt": "C5309-GP-03",
+    "ip_olt": "190.220.178.105"
+  },
+  {
+    "acronimo_olt": "C5309-GP-04",
+    "ip_olt": "190.220.178.106"
+  },
+  {
+    "acronimo_olt": "C5359-GP-01",
+    "ip_olt": "190.220.178.171"
+  },
+  {
+    "acronimo_olt": "C5359-GP-02",
+    "ip_olt": "190.220.178.172"
+  },
+  {
+    "acronimo_olt": "C5415-GP-01",
+    "ip_olt": "190.220.178.165"
+  },
+  {
+    "acronimo_olt": "C5415-GP-02",
+    "ip_olt": "190.220.178.166"
+  },
+  {
+    "acronimo_olt": "C5416-GP-01",
+    "ip_olt": "190.220.178.138"
+  },
+  {
+    "acronimo_olt": "C5416-GP-02",
+    "ip_olt": "190.220.178.139"
+  },
+  {
+    "acronimo_olt": "C5416-GP-03",
+    "ip_olt": "190.220.178.198"
+  },
+  {
+    "acronimo_olt": "C5416-GP-04",
+    "ip_olt": "190.220.178.199"
+  },
+  {
+    "acronimo_olt": "C5416-GP-05",
+    "ip_olt": "190.220.178.246"
+  },
+  {
+    "acronimo_olt": "C5416-GP-06",
+    "ip_olt": "190.220.178.247"
+  },
+  {
+    "acronimo_olt": "CA00056-GP-01",
+    "ip_olt": "190.220.178.211"
+  },
+  {
+    "acronimo_olt": "CAS-R23-04_VIRTUAL_PORT 10",
+    "ip_olt": "12.4.8.255"
+  },
+  {
+    "acronimo_olt": "CB201-GP-01",
+    "ip_olt": "190.220.178.41"
+  },
+  {
+    "acronimo_olt": "CF01003-GP-01",
+    "ip_olt": "190.220.178.176"
+  },
+  {
+    "acronimo_olt": "CF01003-GP-02",
+    "ip_olt": "190.220.178.183"
+  },
+  {
+    "acronimo_olt": "CF01003-GP-03",
+    "ip_olt": "190.220.178.224"
+  },
+  {
+    "acronimo_olt": "CF03288-GP-01",
+    "ip_olt": "190.220.178.177"
+  },
+  {
+    "acronimo_olt": "CF03288-GP-02",
+    "ip_olt": "190.220.178.178"
+  },
+  {
+    "acronimo_olt": "CF03288-GP-03",
+    "ip_olt": "190.220.178.179"
+  },
+  {
+    "acronimo_olt": "CF03288-GP-04",
+    "ip_olt": "190.220.178.184"
+  },
+  {
+    "acronimo_olt": "CF03367-GP-01",
+    "ip_olt": "190.220.178.201"
+  },
+  {
+    "acronimo_olt": "CF03367-GP-02",
+    "ip_olt": "190.220.178.202"
+  },
+  {
+    "acronimo_olt": "CF03367-GP-03",
+    "ip_olt": "190.220.178.203"
+  },
+  {
+    "acronimo_olt": "CF03367-GP-04",
+    "ip_olt": "190.220.178.204"
+  },
+  {
+    "acronimo_olt": "CF03367-GP-05",
+    "ip_olt": "190.220.178.205"
+  },
+  {
+    "acronimo_olt": "CF04513-GP-01",
+    "ip_olt": "190.220.178.249"
+  },
+  {
+    "acronimo_olt": "CF04513-GP-02",
+    "ip_olt": "190.220.178.250"
+  },
+  {
+    "acronimo_olt": "CF04513-GP-03",
+    "ip_olt": "190.220.178.251"
+  },
+  {
+    "acronimo_olt": "CF04513-GP-04",
+    "ip_olt": "190.220.178.235"
+  },
+  {
+    "acronimo_olt": "CF04582-GP-01",
+    "ip_olt": "190.220.178.225"
+  },
+  {
+    "acronimo_olt": "CF04582-GP-02",
+    "ip_olt": "190.220.178.226"
+  },
+  {
+    "acronimo_olt": "CF04582-GP-03",
+    "ip_olt": "190.220.178.227"
+  },
+  {
+    "acronimo_olt": "CF04582-GP-04",
+    "ip_olt": "190.220.178.228"
+  },
+  {
+    "acronimo_olt": "CF04583-GP-01",
+    "ip_olt": "190.220.178.221"
+  },
+  {
+    "acronimo_olt": "CF04583-GP-02",
+    "ip_olt": "190.220.178.222"
+  },
+  {
+    "acronimo_olt": "CF04583-GP-03",
+    "ip_olt": "190.220.178.223"
+  },
+  {
+    "acronimo_olt": "CF04583-GP-04",
+    "ip_olt": "190.220.178.236"
+  },
+  {
+    "acronimo_olt": "CHR02-GP-01",
+    "ip_olt": "190.220.178.118"
+  },
+  {
+    "acronimo_olt": "CHR02-GP-02",
+    "ip_olt": "190.220.178.119"
+  },
+  {
+    "acronimo_olt": "CHR02-GP-03",
+    "ip_olt": "190.220.178.4"
+  },
+  {
+    "acronimo_olt": "CN007-GP-01",
+    "ip_olt": "190.220.178.214"
+  },
+  {
+    "acronimo_olt": "CN007-GP-02",
+    "ip_olt": "190.220.178.0"
+  },
+  {
+    "acronimo_olt": "CN030-GP-01",
+    "ip_olt": "190.220.178.215"
+  },
+  {
+    "acronimo_olt": "CN035-GP-01",
+    "ip_olt": "190.220.178.38"
+  },
+  {
+    "acronimo_olt": "CN035-GP-02",
+    "ip_olt": "190.220.178.58"
+  },
+  {
+    "acronimo_olt": "CN035-GP-03",
+    "ip_olt": "190.220.195.8"
+  },
+  {
+    "acronimo_olt": "CN040-GP-01",
+    "ip_olt": "190.220.178.131"
+  },
+  {
+    "acronimo_olt": "CN040-GP-02",
+    "ip_olt": "190.220.178.144"
+  },
+  {
+    "acronimo_olt": "CN040-GP-03",
+    "ip_olt": "190.220.178.153"
+  },
+  {
+    "acronimo_olt": "CN040-GP-04",
+    "ip_olt": "190.220.178.170"
+  },
+  {
+    "acronimo_olt": "CN040-GP-05",
+    "ip_olt": "190.220.178.212"
+  },
+  {
+    "acronimo_olt": "CN051-GP-01",
+    "ip_olt": "190.220.178.188"
+  },
+  {
+    "acronimo_olt": "CN051-GP-02",
+    "ip_olt": "190.220.178.194"
+  },
+  {
+    "acronimo_olt": "CN051-GP-03",
+    "ip_olt": "190.220.178.195"
+  },
+  {
+    "acronimo_olt": "CN051-GP-04",
+    "ip_olt": "190.220.178.209"
+  },
+  {
+    "acronimo_olt": "CO008-GP-01",
+    "ip_olt": "190.220.178.91"
+  },
+  {
+    "acronimo_olt": "CO008-GP-02",
+    "ip_olt": "190.220.178.101"
+  },
+  {
+    "acronimo_olt": "CO008-GP-03",
+    "ip_olt": "190.220.178.102"
+  },
+  {
+    "acronimo_olt": "CO008-GP-04",
+    "ip_olt": "190.220.178.181"
+  },
+  {
+    "acronimo_olt": "CO008-GP-05",
+    "ip_olt": "190.220.178.190"
+  },
+  {
+    "acronimo_olt": "CO065-GP-01",
+    "ip_olt": "190.220.178.161"
+  },
+  {
+    "acronimo_olt": "CO065-GP-02",
+    "ip_olt": "190.220.178.164"
+  },
+  {
+    "acronimo_olt": "CO867-GP-01",
+    "ip_olt": "190.220.178.63"
+  },
+  {
+    "acronimo_olt": "CO867-GP-02",
+    "ip_olt": "190.220.178.64"
+  },
+  {
+    "acronimo_olt": "CO905-GP-04",
+    "ip_olt": "190.220.178.191"
+  },
+  {
+    "acronimo_olt": "CO905-GP-05",
+    "ip_olt": "190.220.178.242"
+  },
+  {
+    "acronimo_olt": "CO907-GP-01",
+    "ip_olt": "190.220.178.240"
+  },
+  {
+    "acronimo_olt": "CSRN01GP01",
+    "ip_olt": "190.220.178.5"
+  },
+  {
+    "acronimo_olt": "CSRN01GP02",
+    "ip_olt": "190.220.178.10"
+  },
+  {
+    "acronimo_olt": "CT200-GP-01",
+    "ip_olt": "190.220.178.95"
+  },
+  {
+    "acronimo_olt": "CT200-GP-02",
+    "ip_olt": "190.220.178.96"
+  },
+  {
+    "acronimo_olt": "CT200-GP-03",
+    "ip_olt": "190.220.178.196"
+  },
+  {
+    "acronimo_olt": "CX109-GP-01",
+    "ip_olt": "190.220.178.123"
+  },
+  {
+    "acronimo_olt": "CX109-GP-02",
+    "ip_olt": "190.220.178.124"
+  },
+  {
+    "acronimo_olt": "CX110-GP-03",
+    "ip_olt": "190.220.178.169"
+  },
+  {
+    "acronimo_olt": "CX110GP01",
+    "ip_olt": "190.220.178.132"
+  },
+  {
+    "acronimo_olt": "CX110GP02",
+    "ip_olt": "190.220.178.133"
+  },
+  {
+    "acronimo_olt": "CX133-GP-01",
+    "ip_olt": "190.220.178.154"
+  },
+  {
+    "acronimo_olt": "CX133-GP-02",
+    "ip_olt": "190.220.178.155"
+  },
+  {
+    "acronimo_olt": "CX133-GP-03",
+    "ip_olt": "190.220.178.156"
+  },
+  {
+    "acronimo_olt": "CX133-GP-04",
+    "ip_olt": "190.220.178.220"
+  },
+  {
+    "acronimo_olt": "EC2705-GP-01",
+    "ip_olt": "190.220.178.150"
+  },
+  {
+    "acronimo_olt": "GHUR01GP01",
+    "ip_olt": "190.220.178.39"
+  },
+  {
+    "acronimo_olt": "GHUR01GP02",
+    "ip_olt": "190.220.178.40"
+  },
+  {
+    "acronimo_olt": "GHUR01GP03",
+    "ip_olt": "190.220.178.74"
+  },
+  {
+    "acronimo_olt": "GKRA01GP01",
+    "ip_olt": "190.220.178.28"
+  },
+  {
+    "acronimo_olt": "GKRA01GP02",
+    "ip_olt": "190.220.178.90"
+  },
+  {
+    "acronimo_olt": "GKRA01GP03",
+    "ip_olt": "190.220.178.97"
+  },
+  {
+    "acronimo_olt": "GKRA01GP04",
+    "ip_olt": "190.220.178.121"
+  },
+  {
+    "acronimo_olt": "GKRA01GP05",
+    "ip_olt": "190.220.178.130"
+  },
+  {
+    "acronimo_olt": "GKRA01GP06",
+    "ip_olt": "190.220.178.243"
+  },
+  {
+    "acronimo_olt": "GKRA01GP07",
+    "ip_olt": "190.220.178.244"
+  },
+  {
+    "acronimo_olt": "GKRA01GP08",
+    "ip_olt": "190.220.178.252"
+  },
+  {
+    "acronimo_olt": "GKRA01GP09",
+    "ip_olt": "190.220.178.213"
+  },
+  {
+    "acronimo_olt": "GSLT01GP01",
+    "ip_olt": "190.220.178.44"
+  },
+  {
+    "acronimo_olt": "GSLT01GP02",
+    "ip_olt": "190.220.178.45"
+  },
+  {
+    "acronimo_olt": "GSLT01GP03",
+    "ip_olt": "190.220.178.20"
+  },
+  {
+    "acronimo_olt": "GSLT01GP04",
+    "ip_olt": "190.220.178.122"
+  },
+  {
+    "acronimo_olt": "GSRN01GP01",
+    "ip_olt": "190.220.178.24"
+  },
+  {
+    "acronimo_olt": "GSRN01GP02",
+    "ip_olt": "190.220.178.25"
+  },
+  {
+    "acronimo_olt": "GSTC01GP01",
+    "ip_olt": "190.220.178.48"
+  },
+  {
+    "acronimo_olt": "GSTC01GP02",
+    "ip_olt": "190.220.178.49"
+  },
+  {
+    "acronimo_olt": "GUAC01GP01",
+    "ip_olt": "190.220.178.37"
+  },
+  {
+    "acronimo_olt": "GUAC01GP02",
+    "ip_olt": "190.220.178.149"
+  },
+  {
+    "acronimo_olt": "GUAC01GP03",
+    "ip_olt": "190.220.178.160"
+  },
+  {
+    "acronimo_olt": "GVSR01GP01",
+    "ip_olt": "190.220.178.26"
+  },
+  {
+    "acronimo_olt": "GVSR01GP02",
+    "ip_olt": "190.220.178.27"
+  },
+  {
+    "acronimo_olt": "ISAM_FX4",
+    "ip_olt": "190.220.178.51"
+  },
+  {
+    "acronimo_olt": "JU001-GP-01",
+    "ip_olt": "190.220.178.116"
+  },
+  {
+    "acronimo_olt": "JU001-GP-02",
+    "ip_olt": "190.220.178.117"
+  },
+  {
+    "acronimo_olt": "JU030-GP-01",
+    "ip_olt": "190.220.178.146"
+  },
+  {
+    "acronimo_olt": "JU030-GP-02",
+    "ip_olt": "190.220.178.147"
+  },
+  {
+    "acronimo_olt": "LABORATORIOOLT",
+    "ip_olt": "190.220.178.148"
+  },
+  {
+    "acronimo_olt": "MA5800-X7_LAB",
+    "ip_olt": "190.220.178.148"
+  },
+  {
+    "acronimo_olt": "ME201-GP-01",
+    "ip_olt": "190.220.178.189"
+  },
+  {
+    "acronimo_olt": "ME201-GP-02",
+    "ip_olt": "190.220.178.192"
+  },
+  {
+    "acronimo_olt": "ME201-GP-03",
+    "ip_olt": "190.220.178.193"
+  },
+  {
+    "acronimo_olt": "ME205-GP-04",
+    "ip_olt": "190.220.178.197"
+  },
+  {
+    "acronimo_olt": "ME298-GP-02",
+    "ip_olt": "190.220.178.180"
+  },
+  {
+    "acronimo_olt": "ME298-GP-03",
+    "ip_olt": "190.220.178.219"
+  },
+  {
+    "acronimo_olt": "ME298-GP-04",
+    "ip_olt": "190.220.178.200"
+  },
+  {
+    "acronimo_olt": "MI201-GP-01",
+    "ip_olt": "190.220.178.167"
+  },
+  {
+    "acronimo_olt": "MI201-GP-02",
+    "ip_olt": "190.220.178.168"
+  },
+  {
+    "acronimo_olt": "MI201-GP-03",
+    "ip_olt": "190.220.178.210"
+  },
+  {
+    "acronimo_olt": "MI201-GP-04",
+    "ip_olt": "190.220.178.255"
+  },
+  {
+    "acronimo_olt": "MI201-GP-05",
+    "ip_olt": "190.220.178.229"
+  },
+  {
+    "acronimo_olt": "MRNR01GP01",
+    "ip_olt": "190.220.178.3"
+  },
+  {
+    "acronimo_olt": "MRNR01GP02",
+    "ip_olt": "190.220.178.7"
+  },
+  {
+    "acronimo_olt": "MRNR01GP03",
+    "ip_olt": "190.220.178.21"
+  },
+  {
+    "acronimo_olt": "MRNR01GP04",
+    "ip_olt": "190.220.178.88"
+  },
+  {
+    "acronimo_olt": "MRNR01GP05",
+    "ip_olt": "190.220.178.89"
+  },
+  {
+    "acronimo_olt": "MRNR01GP06",
+    "ip_olt": "190.220.178.182"
+  },
+  {
+    "acronimo_olt": "MVLN01GP01",
+    "ip_olt": "190.220.178.254"
+  },
+  {
+    "acronimo_olt": "NAVE01GP01",
+    "ip_olt": "190.220.178.42"
+  },
+  {
+    "acronimo_olt": "NAVE01GP02",
+    "ip_olt": "190.220.178.78"
+  },
+  {
+    "acronimo_olt": "NAVE01GP03",
+    "ip_olt": "190.220.178.79"
+  },
+  {
+    "acronimo_olt": "NAVE01GP04",
+    "ip_olt": "190.220.178.98"
+  },
+  {
+    "acronimo_olt": "NAVE01GP05",
+    "ip_olt": "190.220.178.114"
+  },
+  {
+    "acronimo_olt": "NAVE01GP06",
+    "ip_olt": "190.220.178.152"
+  },
+  {
+    "acronimo_olt": "NBER01GP01",
+    "ip_olt": "190.220.178.56"
+  },
+  {
+    "acronimo_olt": "NBER01GP02",
+    "ip_olt": "190.220.178.22"
+  },
+  {
+    "acronimo_olt": "NBER01GP03",
+    "ip_olt": "190.220.178.23"
+  },
+  {
+    "acronimo_olt": "NBER01GP04",
+    "ip_olt": "190.220.178.66"
+  },
+  {
+    "acronimo_olt": "NBER01GP05",
+    "ip_olt": "190.220.178.80"
+  },
+  {
+    "acronimo_olt": "NBER01GP06",
+    "ip_olt": "190.220.178.113"
+  },
+  {
+    "acronimo_olt": "NCLL01GP01",
+    "ip_olt": "190.220.178.31"
+  },
+  {
+    "acronimo_olt": "NCOR01GP01",
+    "ip_olt": "190.220.178.59"
+  },
+  {
+    "acronimo_olt": "NCOR01GP02",
+    "ip_olt": "190.220.178.62"
+  },
+  {
+    "acronimo_olt": "NCOR01GP03",
+    "ip_olt": "190.220.178.157"
+  },
+  {
+    "acronimo_olt": "NDRR01GP01",
+    "ip_olt": "190.220.178.43"
+  },
+  {
+    "acronimo_olt": "NGRY01GP01",
+    "ip_olt": "190.220.178.29"
+  },
+  {
+    "acronimo_olt": "NGRY01GP02",
+    "ip_olt": "190.220.178.163"
+  },
+  {
+    "acronimo_olt": "NMZA01GP01",
+    "ip_olt": "190.220.178.1"
+  },
+  {
+    "acronimo_olt": "NOLL01GP01",
+    "ip_olt": "190.220.178.30"
+  },
+  {
+    "acronimo_olt": "NOLL01GP02",
+    "ip_olt": "190.220.178.127"
+  },
+  {
+    "acronimo_olt": "NOLL01GP03",
+    "ip_olt": "190.220.178.175"
+  },
+  {
+    "acronimo_olt": "NPAC01GP01",
+    "ip_olt": "190.220.178.36"
+  },
+  {
+    "acronimo_olt": "NPIT01GP01",
+    "ip_olt": "190.220.178.32"
+  },
+  {
+    "acronimo_olt": "NSBT01GP01",
+    "ip_olt": "190.220.178.33"
+  },
+  {
+    "acronimo_olt": "NSUP01GP01",
+    "ip_olt": "190.220.178.9"
+  },
+  {
+    "acronimo_olt": "NUSH01GP01",
+    "ip_olt": "190.220.178.47"
+  },
+  {
+    "acronimo_olt": "OLTLABTMX_FLEX",
+    "ip_olt": "10.160.75.236"
+  },
+  {
+    "acronimo_olt": "RSIS01GP01",
+    "ip_olt": "190.220.178.2"
+  },
+  {
+    "acronimo_olt": "SF044-GP-01",
+    "ip_olt": "190.220.178.68"
+  },
+  {
+    "acronimo_olt": "SF044-GP-02",
+    "ip_olt": "190.220.178.69"
+  },
+  {
+    "acronimo_olt": "SF044-GP-03",
+    "ip_olt": "190.220.178.73"
+  },
+  {
+    "acronimo_olt": "SF044-GP-04",
+    "ip_olt": "190.220.178.100"
+  },
+  {
+    "acronimo_olt": "SF903-GP-01",
+    "ip_olt": "190.220.178.110"
+  },
+  {
+    "acronimo_olt": "SF915-GP-01",
+    "ip_olt": "190.220.178.140"
+  },
+  {
+    "acronimo_olt": "SF915-GP-02",
+    "ip_olt": "190.220.178.141"
+  },
+  {
+    "acronimo_olt": "SJ106-GP-01",
+    "ip_olt": "190.220.178.125"
+  },
+  {
+    "acronimo_olt": "SJ106-GP-02",
+    "ip_olt": "190.220.178.145"
+  },
+  {
+    "acronimo_olt": "SL003-GP-01",
+    "ip_olt": "190.220.178.60"
+  },
+  {
+    "acronimo_olt": "SL003-GP-02",
+    "ip_olt": "190.220.178.92"
+  },
+  {
+    "acronimo_olt": "SMTN01GP01",
+    "ip_olt": "190.220.178.8"
+  },
+  {
+    "acronimo_olt": "SN00018-GP-01",
+    "ip_olt": "190.220.178.254"
+  },
+  {
+    "acronimo_olt": "TIGN01GP01",
+    "ip_olt": "190.220.178.11"
+  },
+  {
+    "acronimo_olt": "TS1000-GP-01",
+    "ip_olt": "190.220.178.111"
+  },
+  {
+    "acronimo_olt": "TS1000-GP-02",
+    "ip_olt": "190.220.178.112"
+  },
+  {
+    "acronimo_olt": "TS1000-GP-03",
+    "ip_olt": "190.220.178.158"
+  },
+  {
+    "acronimo_olt": "TS1000-GP-04",
+    "ip_olt": "190.220.178.159"
+  },
+  {
+    "acronimo_olt": "TS1001-GP-01",
+    "ip_olt": "190.220.178.108"
+  },
+  {
+    "acronimo_olt": "TS1001-GP-02",
+    "ip_olt": "190.220.178.109"
+  },
+  {
+    "acronimo_olt": "TS1001-GP-03",
+    "ip_olt": "190.220.178.173"
+  },
+  {
+    "acronimo_olt": "TS1001-GP-04",
+    "ip_olt": "190.220.178.128"
+  },
+  {
+    "acronimo_olt": "TS1001-GP-05",
+    "ip_olt": "190.220.178.46"
+  },
+  {
+    "acronimo_olt": "TS1001-GP-06",
+    "ip_olt": "190.220.178.54"
+  },
+  {
+    "acronimo_olt": "TS1001-GP-07",
+    "ip_olt": "190.220.178.249"
+  },
+  {
+    "acronimo_olt": "TU001-GP-01",
+    "ip_olt": "190.220.178.6"
+  },
+  {
+    "acronimo_olt": "TU001-GP-02",
+    "ip_olt": "190.220.178.13"
+  },
+  {
+    "acronimo_olt": "TU001-GP-03",
+    "ip_olt": "190.220.178.67"
+  },
+  {
+    "acronimo_olt": "TU001-GP-04",
+    "ip_olt": "190.220.178.208"
+  },
+  {
+    "acronimo_olt": "TU254-GP-01",
+    "ip_olt": "190.220.178.70"
+  },
+  {
+    "acronimo_olt": "TU254-GP-02",
+    "ip_olt": "190.220.178.71"
+  },
+  {
+    "acronimo_olt": "TU254-GP-03",
+    "ip_olt": "190.220.178.72"
+  },
+  {
+    "acronimo_olt": "TU254-GP-04",
+    "ip_olt": "190.220.178.92"
+  },
+  {
+    "acronimo_olt": "TU254-GP-05",
+    "ip_olt": "190.220.178.126"
+  },
+  {
+    "acronimo_olt": "TU254-GP-06",
+    "ip_olt": "190.220.178.35"
+  },
+  {
+    "acronimo_olt": "VLFN01GP01",
+    "ip_olt": "190.220.178.17"
+  },
+  {
+    "acronimo_olt": "VLFN01GP02",
+    "ip_olt": "190.220.178.18"
+  },
+  {
+    "acronimo_olt": "VLFN01GP03",
+    "ip_olt": "190.220.178.19"
+  },
+  {
+    "acronimo_olt": "VLFN01GP04",
+    "ip_olt": "190.220.178.12"
+  },
+  {
+    "acronimo_olt": "VLFN01GP05",
+    "ip_olt": "190.220.178.120"
+  },
+  {
+    "acronimo_olt": "VLMN01GP01",
+    "ip_olt": "190.220.178.14"
+  },
+  {
+    "acronimo_olt": "VLMN01GP02",
+    "ip_olt": "190.220.178.15"
+  },
+  {
+    "acronimo_olt": "VLMN01GP03",
+    "ip_olt": "190.220.178.16"
+  }
+]

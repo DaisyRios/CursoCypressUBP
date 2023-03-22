@@ -1,0 +1,51 @@
+{
+  "oltIp": "190.220.178.146",
+  "oltName": "JU030-GP-01",
+  "frame": 1,
+  "slot": 4,
+  "port": 2,
+  "marcaOLT": 40,
+  "provider": 0,
+  "ontInfraData": [
+    {
+      "macAddress": "F0686557F710",
+      "ontId": 4,
+      "marcaONT": 40
+    },
+    {
+      "macAddress": "F06865564410",
+      "ontId": 8,
+      "marcaONT": 40
+    },
+    {
+      "macAddress": "B4265DB75430",
+      "ontId": 7,
+      "marcaONT": 40
+    },
+    {
+      "macAddress": "30DF8D2476E0",
+      "ontId": 19,
+      "marcaONT": 40
+    },
+    {
+      "macAddress": "B4265DB68A90",
+      "ontId": 15,
+      "marcaONT": 40
+    },
+    {
+      "macAddress": "AC8D34E9A06B",
+      "ontId": 20,
+      "marcaONT": 14
+    },
+    {
+      "macAddress": "9844CE575B98",
+      "ontId": 14,
+      "marcaONT": 14
+    },
+    {
+      "macAddress": "9844CE580AA4",
+      "ontId": 31,
+      "marcaONT": 14
+    }
+  ]
+}

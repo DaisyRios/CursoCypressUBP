@@ -1,0 +1,16 @@
+{
+  "Device.LINEA1.Enable": "Enabled",
+  "Device.LINEA1.LineNumber": "+542233510479",
+  "Device.LINEA1.Status": "Up",
+  "Device.LINEA1.CallState": "Idle",
+  "Device.LINEA1.PhyReferenceList": "1",
+  "Device.LINEA1.ServiceState": "normal",
+  "Device.LINEA1.LastRegisterError": "-",
+  "Device.LINEA2.Enable": "Disabled",
+  "Device.LINEA2.LineNumber": "",
+  "Device.LINEA2.Status": "Disabled",
+  "Device.LINEA2.CallState": "Idle",
+  "Device.LINEA2.PhyReferenceList": "2",
+  "Device.LINEA2.ServiceState": "endLocal",
+  "Device.LINEA2.LastRegisterError": "ERROR_USER_NOT_CONFIGURED"
+}

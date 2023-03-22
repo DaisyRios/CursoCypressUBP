@@ -1,0 +1,18 @@
+{
+  "numeroLinea": null,
+  "macAddress": null,
+  "splitter1": null,
+  "splitter2": null,
+  "splitter3": null,
+  "splitter4": null,
+  "oltName": null,
+  "oltIp": null,
+  "frame": null,
+  "slot": null,
+  "port": null,
+  "ontId": null,
+  "marcaPlaca": null,
+  "marcaOLT": null,
+  "provider": null,
+  "interopEnabled": false
+}

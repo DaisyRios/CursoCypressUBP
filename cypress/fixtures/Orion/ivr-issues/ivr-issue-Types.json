@@ -1,0 +1,41 @@
+{
+  "resultMessage": "OK",
+  "data": [
+    {
+      "id": 6,
+      "description": "INCONVENIENTES CON CLAROVIDEO",
+      "ivrId": "F",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "description": "INCONVENIENTES CON EL SERVICIO DE TELEVISION DIGITAL",
+      "ivrId": "D",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "description": "INCONVENIENTES EN NUESTROS SERVICIOS",
+      "ivrId": "C",
+      "enabled": true
+    },
+    {
+      "id": 5,
+      "description": "INCONVENIENTES EN REDES SOCIALES",
+      "ivrId": "E",
+      "enabled": true
+    },
+    {
+      "id": 1,
+      "description": "TAREAS DE MANTENIMIENTO DEL SERVICIO",
+      "ivrId": "A",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "description": "TAREAS DE MANTENIMIENTO EN EL SERVICIO DE TELEVISION DIGITAL",
+      "ivrId": "B",
+      "enabled": true
+    }
+  ]
+}

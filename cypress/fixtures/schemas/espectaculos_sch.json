@@ -1,0 +1,67 @@
+{
+    "type": "object",
+    "required": [
+        "Eventos",
+        "EventosNuevos",
+        "EventosProximamente",
+        "TieneEventosNuevos",
+        "TieneEventosProximamente",
+        "RankingImage1",
+        "RankingCodigo1",
+        "RankingImageTitle1",
+        "RankingImageFecha1",
+        "RankingImageLugar1",
+        "RankingImage2",
+        "RankingCodigo2",
+        "RankingImageTitle2",
+        "RankingImageFecha2",
+        "RankingImageLugar2"
+    ],
+    "properties": {
+        "Eventos": {
+            "type": "array"
+        },
+        "EventosNuevos": {
+            "type": "array"
+        },
+        "EventosProximamente": {
+            "type": "array"
+        },
+        "TieneEventosNuevos": {
+            "type": "boolean"
+        },
+        "TieneEventosProximamente": {
+            "type": "boolean"
+        },
+        "RankingImage1": {
+            "type": "string"
+        },
+        "RankingCodigo1": {
+            "type": "string"
+        },
+        "RankingImageTitle1": {
+            "type": "string"
+        },
+        "RankingImageFecha1": {
+            "type": "string"
+        },
+        "RankingImageLugar1": {
+            "type": "string"
+        },
+        "RankingImage2": {
+            "type": "string"
+        },
+        "RankingCodigo2": {
+            "type": "string"
+        },
+        "RankingImageTitle2": {
+            "type": "string"
+        },
+        "RankingImageFecha2": {
+            "type": "string"
+        },
+        "RankingImageLugar2": {
+            "type": "string"
+        }
+    }
+}

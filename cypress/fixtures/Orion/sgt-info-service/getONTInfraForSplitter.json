@@ -1,0 +1,10 @@
+{
+  "oltIp": null,
+  "oltName": null,
+  "frame": 0,
+  "slot": 0,
+  "port": 0,
+  "marcaOLT": 0,
+  "provider": 0,
+  "ontInfraData": []
+}

@@ -1,0 +1,42 @@
+{
+  "finalDescription": "OK",
+  "data": [
+    {
+      "ontId": 2,
+      "runStat": "Down",
+      "statusDesc": "Succeeded.",
+      "lastUpTime": "--",
+      "lastDownTime": "--",
+      "lastDownCause": "--",
+      "lastDownCauseOriginal": "--"
+    },
+    {
+      "ontId": 1,
+      "runStat": "Up",
+      "statusDesc": "Succeeded.",
+      "lastUpTime": "2023-03-21 00:04:25",
+      "lastDownTime": "2023-03-21 00:03:50",
+      "lastDownCause": "Corte energetico",
+      "lastDownCauseOriginal": "Dying-gasp"
+    },
+    {
+      "ontId": 0,
+      "runStat": "Up",
+      "statusDesc": "Succeeded.",
+      "lastUpTime": "2023-03-21 14:39:50",
+      "lastDownTime": "--",
+      "lastDownCause": "--",
+      "lastDownCauseOriginal": "--"
+    },
+    {
+      "ontId": 3,
+      "runStat": "Up",
+      "statusDesc": "Succeeded.",
+      "lastUpTime": "2023-03-21 00:04:40",
+      "lastDownTime": "2023-03-21 00:03:50",
+      "lastDownCause": "Corte energetico",
+      "lastDownCauseOriginal": "Dying-gasp"
+    }
+  ],
+  "status": null
+}

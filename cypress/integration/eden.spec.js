@@ -1,53 +1,48 @@
-/// <reference types="cypress" />
-//Se llama a los pages
+/// <reference types= "cypress" />
 import EdenPage from "../pages/eden.js";
 
-//TEST 1 INICIO
-describe("Test de Página Eden", () => {
-  it("Llamada a servicio: /inicio", { tags: ["@regression", "@smoke"] }, () => {
-    cy.callService("inicio", "espectaculos");
-  });
-
-  it("Llamada a servicio: /puntosdeventas", () => {
-    cy.callService(
-      "puntosdeventas",
-      "puntosdeventas",
-      "puntosdeventa_sch.json"
-    );
-  });
-
-  //TEST 2 VERIFICAR CARDS
-
-  it("Verificar las cards de los espectáculos", { tags: "@regression" }, () => {
-    const eden = new EdenPage();
-
-    cy.visit("https://www.edenentradas.com.ar/sitio/contenido/inicio");
-
-    cy.fixture("eden/espectaculos").then((fixture) => {
-      fixture.Eventos.forEach((infoEvento, $index) => {
-        if ($index < 6) {
-          eden.getShowCard().eq($index).scrollIntoView();
-          eden
-            .getShowCard()
-            .eq($index)
-            .matchImageSnapshot("Show_" + $index);
-          eden.getShowName().eq($index).should("have.text", infoEvento.Nombre);
-          cy.wait(5);
-          eden
-            .getShowImage()
-            .eq($index)
-            .should("have.attr", "src", infoEvento.Imagen);
-          eden.getShowImage().eq($index).trigger("mouseover");
-          eden
-            .getShowDate()
-            .should("be.visible")
-            .and("contain.text", infoEvento.Fecha)
-            .and("contain.text", infoEvento.Lugar);
-          eden
-            .getShowDate()
-            .should("have.css", "background-color", "rgba(23, 57, 100, 0.99)");
-        }
-      });
+describe ("test de Pagina Eden", () => {
+  it("Llamada a servicio", () => {
+    cy.request({
+      metod: "GET",
+      url: "https://edenapi.edenentradas.com.ar/edenventarestapi2/api/contenido/inicio",
+    }).then((Response) => {
+      expect(Response.status).to.eq(200);
+      cy.log(JSON.stringify(Response));
+      cy.writeFile("cypress/fixtures/eden/eden.json",Response.body);
     });
-  });
+   });
 });
+
+//Segundo test
+
+describe ("test de Pagina Eden", () => {
+it("Llamada a servicio", () => {
+  cy.request({
+    metod: "GET",
+    url: "https://edenapi.edenentradas.com.ar/edenventarestapi2/api/calendario/dias?month=&year=",
+  }).then((Response) => {
+    expect(Response.status).to.eq(200);
+    cy.log(JSON.stringify(Response));
+    cy.writeFile("cypress/fixtures/eden/Calendario.json",Response.body);
+  });
+ });
+});
+
+// Validacion de tarjets
+
+it.only("Verificar las cards de los espectaculos", () => {
+  const eden = new EdenPage ();
+
+  cy.visit("https://www.edenentradas.com.ar/sitio/contenido/inicio");
+
+  cy.fixture("eden/espectaculos").then((fixture) => {
+    fixture.Eventos.forEach((infoEvento, $index) => {
+      eden.getShowCard().eq($index).scrollIntoView();
+      eden.getShowName().eq($index).should("have.text", infoEvento.Nombre);
+      eden.getShowImage().eq($index)
+
+  });
+    });
+     });
+  

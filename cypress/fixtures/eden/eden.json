@@ -1,0 +1,1307 @@
+{
+  "Eventos": [
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2023-01-02 at 15.41.56.jpeg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Festival Internacional de Peñas Villa Maria 2023 - Edición 55°",
+      "Fecha": "Viernes 10, Sábado 11, Domingo 12, Lunes 13 y Martes 14 de Febrero 20hs",
+      "Lugar": "Anfi Villa Maria",
+      "Codigo": "SHOW005838",
+      "Categorias": "[\"todos\",\"FES\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021340",
+          "Fecha": "2023-02-10T20:00:00",
+          "FechaString": "10 de febrero",
+          "DiaString": "10",
+          "MesString": "febrero",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Callejero Fino, Luana",
+          "Estadio": "Tini, MYA"
+        },
+        {
+          "Codigo": "FUNC021341",
+          "Fecha": "2023-02-11T20:00:00",
+          "FechaString": "11 de febrero",
+          "DiaString": "11",
+          "MesString": "febrero",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Trueno, Dillom",
+          "Estadio": "Tiago PZK, Nicki Nicole "
+        },
+        {
+          "Codigo": "FUNC021342",
+          "Fecha": "2023-02-12T20:00:00",
+          "FechaString": "12 de febrero",
+          "DiaString": "12",
+          "MesString": "febrero",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Fabricio Rodriguez, Orquesta Sinfonica VM",
+          "Estadio": "Ciro, Lali, Miranda, Rayos Laser "
+        },
+        {
+          "Codigo": "FUNC021343",
+          "Fecha": "2023-02-13T20:00:00",
+          "FechaString": "13 de febrero",
+          "DiaString": "13",
+          "MesString": "febrero",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Magui Olave, Desakta2, Fede Herrera",
+          "Estadio": "La Konga, Q Lokura, Dale Q Va, Ulises Bueno "
+        },
+        {
+          "Codigo": "FUNC021344",
+          "Fecha": "2023-02-14T20:00:00",
+          "FechaString": "14 de febrero",
+          "DiaString": "14",
+          "MesString": "febrero",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Luciano Pereyra, Alejandro Lerner",
+          "Estadio": "Camilo, Diego Torres "
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230210"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/cr23agotada.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Cosquin Rock 2023",
+      "Fecha": "Sábado 18 y Domingo 19 de Febrero 14hs",
+      "Lugar": "Aerodromo Sta Maria de Punilla",
+      "Codigo": "SHOW006083",
+      "Categorias": "[\"todos\",\"FES\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021058",
+          "Fecha": "2023-02-18T14:00:00",
+          "FechaString": "18 de febrero",
+          "DiaString": "18",
+          "MesString": "febrero",
+          "HoraString": "14:00 Hs",
+          "Ciudad": "VALIDO PARA 2 DÍAS ",
+          "Estadio": "ABONO GENERAL"
+        },
+        {
+          "Codigo": "FUNC021059",
+          "Fecha": "2023-02-18T14:00:00",
+          "FechaString": "18 de febrero",
+          "DiaString": "18",
+          "MesString": "febrero",
+          "HoraString": "14:00 Hs",
+          "Ciudad": "",
+          "Estadio": "GENERAL DIA 1"
+        },
+        {
+          "Codigo": "FUNC021060",
+          "Fecha": "2023-02-19T14:00:00",
+          "FechaString": "19 de febrero",
+          "DiaString": "19",
+          "MesString": "febrero",
+          "HoraString": "14:00 Hs",
+          "Ciudad": "",
+          "Estadio": "GENERAL DIA 2"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230218"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/alesanzag.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Alejandro Sanz",
+      "Fecha": "Lunes 1 de Mayo 21hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW006131",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021278",
+          "Fecha": "2023-05-01T21:00:00",
+          "FechaString": "1 de mayo",
+          "DiaString": "01",
+          "MesString": "mayo",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230501"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/cr23_edenfanatic_1000x500.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Fanatic Rock 2023",
+      "Fecha": "Sábado 18 y Domingo 19 de Febrero 18hs",
+      "Lugar": "Aerodromo Sta Maria de Punilla",
+      "Codigo": "SHOW006085",
+      "Categorias": "[\"todos\",\"FES\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021167",
+          "Fecha": "2023-02-18T18:00:00",
+          "FechaString": "18 de febrero",
+          "DiaString": "18",
+          "MesString": "febrero",
+          "HoraString": "18:00 Hs",
+          "Ciudad": "DIA 1",
+          "Estadio": "FANATIC ROCK"
+        },
+        {
+          "Codigo": "FUNC021168",
+          "Fecha": "2023-02-19T18:00:00",
+          "FechaString": "19 de febrero",
+          "DiaString": "19",
+          "MesString": "febrero",
+          "HoraString": "18:00 Hs",
+          "Ciudad": "DIA 2",
+          "Estadio": "FANATIC ROCK"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230218"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230204do.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Don Osvaldo - Tandil",
+      "Fecha": "Sábado 4 de Febrero 21hs",
+      "Lugar": "Union y Progreso",
+      "Codigo": "SHOW006137",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021306",
+          "Fecha": "2023-02-04T21:00:00",
+          "FechaString": "4 de febrero",
+          "DiaString": "04",
+          "MesString": "febrero",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Tandil",
+          "Estadio": "Union y Progreso"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230204"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/fuerzabrt_pdlm_03.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Fuerza Bruta",
+      "Fecha": "Del 2 al 9 de Abril 20hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW006150",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021387",
+          "Fecha": "2023-04-02T20:00:00",
+          "FechaString": "2 de abril",
+          "DiaString": "02",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        },
+        {
+          "Codigo": "FUNC021388",
+          "Fecha": "2023-04-03T20:00:00",
+          "FechaString": "3 de abril",
+          "DiaString": "03",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        },
+        {
+          "Codigo": "FUNC021389",
+          "Fecha": "2023-04-04T20:00:00",
+          "FechaString": "4 de abril",
+          "DiaString": "04",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        },
+        {
+          "Codigo": "FUNC021390",
+          "Fecha": "2023-04-06T20:00:00",
+          "FechaString": "6 de abril",
+          "DiaString": "06",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        },
+        {
+          "Codigo": "FUNC021391",
+          "Fecha": "2023-04-07T20:00:00",
+          "FechaString": "7 de abril",
+          "DiaString": "07",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        },
+        {
+          "Codigo": "FUNC021392",
+          "Fecha": "2023-04-08T20:00:00",
+          "FechaString": "8 de abril",
+          "DiaString": "08",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        },
+        {
+          "Codigo": "FUNC021393",
+          "Fecha": "2023-04-09T20:00:00",
+          "FechaString": "9 de abril",
+          "DiaString": "09",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230402"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230101unplan.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Un Plan Perfecto",
+      "Fecha": "De Martes a Domingo a las 22hs",
+      "Lugar": "Teatro del Lago",
+      "Codigo": "SHOW006132",
+      "Categorias": "[\"todos\",\"TEA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021459",
+          "Fecha": "2023-02-02T21:30:00",
+          "FechaString": "2 de febrero",
+          "DiaString": "02",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021479",
+          "Fecha": "2023-02-02T23:30:00",
+          "FechaString": "2 de febrero",
+          "DiaString": "02",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021460",
+          "Fecha": "2023-02-03T21:30:00",
+          "FechaString": "3 de febrero",
+          "DiaString": "03",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021461",
+          "Fecha": "2023-02-03T23:30:00",
+          "FechaString": "3 de febrero",
+          "DiaString": "03",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021462",
+          "Fecha": "2023-02-04T21:30:00",
+          "FechaString": "4 de febrero",
+          "DiaString": "04",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021463",
+          "Fecha": "2023-02-04T23:30:00",
+          "FechaString": "4 de febrero",
+          "DiaString": "04",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021464",
+          "Fecha": "2023-02-05T21:30:00",
+          "FechaString": "5 de febrero",
+          "DiaString": "05",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021465",
+          "Fecha": "2023-02-05T23:30:00",
+          "FechaString": "5 de febrero",
+          "DiaString": "05",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021480",
+          "Fecha": "2023-02-07T21:30:00",
+          "FechaString": "7 de febrero",
+          "DiaString": "07",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021481",
+          "Fecha": "2023-02-07T23:30:00",
+          "FechaString": "7 de febrero",
+          "DiaString": "07",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021482",
+          "Fecha": "2023-02-08T21:30:00",
+          "FechaString": "8 de febrero",
+          "DiaString": "08",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021483",
+          "Fecha": "2023-02-08T23:30:00",
+          "FechaString": "8 de febrero",
+          "DiaString": "08",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021484",
+          "Fecha": "2023-02-09T21:30:00",
+          "FechaString": "9 de febrero",
+          "DiaString": "09",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021485",
+          "Fecha": "2023-02-09T23:30:00",
+          "FechaString": "9 de febrero",
+          "DiaString": "09",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021486",
+          "Fecha": "2023-02-10T21:30:00",
+          "FechaString": "10 de febrero",
+          "DiaString": "10",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021487",
+          "Fecha": "2023-02-10T23:30:00",
+          "FechaString": "10 de febrero",
+          "DiaString": "10",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021488",
+          "Fecha": "2023-02-11T21:30:00",
+          "FechaString": "11 de febrero",
+          "DiaString": "11",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021489",
+          "Fecha": "2023-02-11T23:30:00",
+          "FechaString": "11 de febrero",
+          "DiaString": "11",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021490",
+          "Fecha": "2023-02-12T21:30:00",
+          "FechaString": "12 de febrero",
+          "DiaString": "12",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021491",
+          "Fecha": "2023-02-12T23:30:00",
+          "FechaString": "12 de febrero",
+          "DiaString": "12",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021509",
+          "Fecha": "2023-02-14T21:30:00",
+          "FechaString": "14 de febrero",
+          "DiaString": "14",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021510",
+          "Fecha": "2023-02-14T23:30:00",
+          "FechaString": "14 de febrero",
+          "DiaString": "14",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021511",
+          "Fecha": "2023-02-15T21:30:00",
+          "FechaString": "15 de febrero",
+          "DiaString": "15",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021512",
+          "Fecha": "2023-02-15T23:30:00",
+          "FechaString": "15 de febrero",
+          "DiaString": "15",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021513",
+          "Fecha": "2023-02-16T21:30:00",
+          "FechaString": "16 de febrero",
+          "DiaString": "16",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021514",
+          "Fecha": "2023-02-16T23:30:00",
+          "FechaString": "16 de febrero",
+          "DiaString": "16",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021515",
+          "Fecha": "2023-02-17T21:30:00",
+          "FechaString": "17 de febrero",
+          "DiaString": "17",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021516",
+          "Fecha": "2023-02-17T23:30:00",
+          "FechaString": "17 de febrero",
+          "DiaString": "17",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021517",
+          "Fecha": "2023-02-18T21:30:00",
+          "FechaString": "18 de febrero",
+          "DiaString": "18",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021519",
+          "Fecha": "2023-02-18T23:30:00",
+          "FechaString": "18 de febrero",
+          "DiaString": "18",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021520",
+          "Fecha": "2023-02-19T21:30:00",
+          "FechaString": "19 de febrero",
+          "DiaString": "19",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021521",
+          "Fecha": "2023-02-19T23:30:00",
+          "FechaString": "19 de febrero",
+          "DiaString": "19",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021522",
+          "Fecha": "2023-02-20T21:30:00",
+          "FechaString": "20 de febrero",
+          "DiaString": "20",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021523",
+          "Fecha": "2023-02-20T23:30:00",
+          "FechaString": "20 de febrero",
+          "DiaString": "20",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021524",
+          "Fecha": "2023-02-21T21:30:00",
+          "FechaString": "21 de febrero",
+          "DiaString": "21",
+          "MesString": "febrero",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021525",
+          "Fecha": "2023-02-21T23:30:00",
+          "FechaString": "21 de febrero",
+          "DiaString": "21",
+          "MesString": "febrero",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230202"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230221camilo.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Camilo",
+      "Fecha": "Martes 21 de Febrero 21hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW006129",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021267",
+          "Fecha": "2023-02-21T21:00:00",
+          "FechaString": "21 de febrero",
+          "DiaString": "21",
+          "MesString": "febrero",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230221"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230224mellera.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Luciano Mellera",
+      "Fecha": "Viernes 24 de Febrero 21hs",
+      "Lugar": "Cañada Comedy - Teatro de la Cañada",
+      "Codigo": "SHOW005858",
+      "Categorias": "[\"todos\",\"TEA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021438",
+          "Fecha": "2023-02-23T21:00:00",
+          "FechaString": "23 de febrero",
+          "DiaString": "23",
+          "MesString": "febrero",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Av. Marcelo T. de Alvear 580",
+          "Estadio": "Teatro de la Cañada"
+        },
+        {
+          "Codigo": "FUNC021329",
+          "Fecha": "2023-02-24T21:00:00",
+          "FechaString": "24 de febrero",
+          "DiaString": "24",
+          "MesString": "febrero",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Av. Marcelo T. de Alvear 580",
+          "Estadio": "Teatro de la Cañada"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230223"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230210lucasluariente.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Lucas Lauriente",
+      "Fecha": "Viernes 10 de Febrero 21hs",
+      "Lugar": "Cañada Comedy - Teatro de la Cañada",
+      "Codigo": "SHOW005859",
+      "Categorias": "[\"todos\",\"TEA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021328",
+          "Fecha": "2023-02-10T21:00:00",
+          "FechaString": "10 de febrero",
+          "DiaString": "10",
+          "MesString": "febrero",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Av. Marcelo T. de Alvear 580",
+          "Estadio": "Teatro de la Cañada"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230210"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230311pelusa.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "El Rey Pelusa",
+      "Fecha": "Sábado 11 de Marzo 23.30hs",
+      "Lugar": "Forja",
+      "Codigo": "SHOW000380",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021455",
+          "Fecha": "2023-03-11T23:30:00",
+          "FechaString": "11 de marzo",
+          "DiaString": "11",
+          "MesString": "marzo",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Forja"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230311"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/equilibrista2023.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "El Equilibrista - Mauricio Dayub ",
+      "Fecha": "Viernes 17 y Sábado 18 de Marzo 21hs",
+      "Lugar": "Sala de las Americas",
+      "Codigo": "SHOW005905",
+      "Categorias": "[\"todos\",\"TEA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021474",
+          "Fecha": "2023-03-17T21:00:00",
+          "FechaString": "17 de marzo",
+          "DiaString": "17",
+          "MesString": "marzo",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Sala de las Americas"
+        },
+        {
+          "Codigo": "FUNC021475",
+          "Fecha": "2023-03-18T21:00:00",
+          "FechaString": "18 de marzo",
+          "DiaString": "18",
+          "MesString": "marzo",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Sala de las Americas"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230317"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230210ulises.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Ulises Bueno",
+      "Fecha": "Sábado 10 de Febrero 23.59hs ",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW005757",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021530",
+          "Fecha": "2023-02-10T23:59:00",
+          "FechaString": "10 de febrero",
+          "DiaString": "10",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230210"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230203dc.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Damian Cordoba",
+      "Fecha": "Sábado 3 de Febrero 23.59hs",
+      "Lugar": "Atenas",
+      "Codigo": "SHOW005751",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021501",
+          "Fecha": "2023-02-03T23:59:00",
+          "FechaString": "3 de febrero",
+          "DiaString": "03",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Atenas"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230203"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/2023moldavsky.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "El método Moldavsky",
+      "Fecha": "Viernes 14 de Abril 21 y Sábado 15 Abril 20hs ",
+      "Lugar": "Sala de las Americas",
+      "Codigo": "SHOW006157",
+      "Categorias": "[\"todos\",\"TEA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021494",
+          "Fecha": "2023-04-14T21:00:00",
+          "FechaString": "14 de abril",
+          "DiaString": "14",
+          "MesString": "abril",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Sala de las Americas"
+        },
+        {
+          "Codigo": "FUNC021495",
+          "Fecha": "2023-04-15T20:00:00",
+          "FechaString": "15 de abril",
+          "DiaString": "15",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Sala de las Americas"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230414"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/2023luly.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Pablo Angeli presenta “ El show de Carmen, una madre argentina “ ",
+      "Fecha": "Viernes 3 de Marzo 21hs",
+      "Lugar": "Teatro de la Cañada",
+      "Codigo": "SHOW006158",
+      "Categorias": "[\"todos\",\"TEA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021500",
+          "Fecha": "2023-03-03T21:00:00",
+          "FechaString": "3 de marzo",
+          "DiaString": "03",
+          "MesString": "marzo",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Av. Marcelo T. de Alvear 580",
+          "Estadio": "Teatro de la Cañada"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230303"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230203planeadorv.jpeg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Planeador V",
+      "Fecha": "Viernes 3 de Febrero 23.59hs",
+      "Lugar": "El Perla Eventos",
+      "Codigo": "SHOW006051",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021505",
+          "Fecha": "2023-02-03T23:59:00",
+          "FechaString": "3 de febrero",
+          "DiaString": "03",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Villa Nueva",
+          "Estadio": "El Perla Eventos"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230203"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230203pelusa.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Pelusa",
+      "Fecha": "Sábado 3 de Febrero 23.59hs",
+      "Lugar": "Palmira Cerro",
+      "Codigo": "SHOW006110",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021502",
+          "Fecha": "2023-02-03T23:59:00",
+          "FechaString": "3 de febrero",
+          "DiaString": "03",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Palmira Cerro"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230203"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230303rockea.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Rockea",
+      "Fecha": "Viernes 3 de Marzo 21hs",
+      "Lugar": "Studio Theater",
+      "Codigo": "SHOW005928",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021504",
+          "Fecha": "2023-03-03T21:00:00",
+          "FechaString": "3 de marzo",
+          "DiaString": "03",
+          "MesString": "marzo",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Studio Theater"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230303"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230204lb.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "La Barra",
+      "Fecha": "Sábado 4 de Febrero 23.59hs",
+      "Lugar": "Comedor Universitario",
+      "Codigo": "SHOW005819",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021529",
+          "Fecha": "2023-02-04T23:59:00",
+          "FechaString": "4 de febrero",
+          "DiaString": "04",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Comedor Universitario"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230204"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230224festgralcab.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Festival General Cabrera, del pais al mundo!",
+      "Fecha": "Viernes 24 y Sábado 25 de Febrero 21hs",
+      "Lugar": "Club Asociación Independiente Dolores",
+      "Codigo": "SHOW006155",
+      "Categorias": "[\"todos\",\"FES\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021441",
+          "Fecha": "2023-02-24T21:00:00",
+          "FechaString": "24 de febrero",
+          "DiaString": "24",
+          "MesString": "febrero",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "General Cabrera",
+          "Estadio": "Club Asociación Independiente Dolores"
+        },
+        {
+          "Codigo": "FUNC021442",
+          "Fecha": "2023-02-25T21:00:00",
+          "FechaString": "25 de febrero",
+          "DiaString": "25",
+          "MesString": "febrero",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "General Cabrera",
+          "Estadio": "Club Asociación Independiente Dolores"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230224"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/2023dc.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Damian Cordoba",
+      "Fecha": "Todos los Lunes de Enero y Febrero",
+      "Lugar": "Keops Disco",
+      "Codigo": "SHOW006144",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021350",
+          "Fecha": "2023-02-06T23:59:00",
+          "FechaString": "6 de febrero",
+          "DiaString": "06",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Keops Disco"
+        },
+        {
+          "Codigo": "FUNC021351",
+          "Fecha": "2023-02-13T23:59:00",
+          "FechaString": "13 de febrero",
+          "DiaString": "13",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Keops Disco"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230206"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/2023labarracp.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "La Barra",
+      "Fecha": "Todos los Miercoles de Enero y Febrero.",
+      "Lugar": "Keops Disco",
+      "Codigo": "SHOW006145",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021357",
+          "Fecha": "2023-02-08T23:59:00",
+          "FechaString": "8 de febrero",
+          "DiaString": "08",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Keops Disco"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230208"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230203lisa.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Lisandro Márquez",
+      "Fecha": "Viernes 3 de Febrero 23.59hs",
+      "Lugar": "El Perla Eventos",
+      "Codigo": "SHOW001299",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021445",
+          "Fecha": "2023-02-03T23:59:00",
+          "FechaString": "3 de febrero",
+          "DiaString": "03",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Villa Nueva",
+          "Estadio": "El Perla Eventos"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230203"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230210lajoaqui.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "La Joaqui",
+      "Fecha": "Viernes 10 de Febrero 23.59hs",
+      "Lugar": "Khalama Disco",
+      "Codigo": "SHOW005879",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021532",
+          "Fecha": "2023-02-10T23:59:00",
+          "FechaString": "10 de febrero",
+          "DiaString": "10",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Khalama Disco"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230210"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230204turcojulio.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "El Turco Julio & Titan Gonzalez",
+      "Fecha": "Sábado 4 de Febrero 23.59hs",
+      "Lugar": "Viejo Molino Multiespacio",
+      "Codigo": "SHOW005810",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021528",
+          "Fecha": "2023-02-04T23:59:00",
+          "FechaString": "4 de febrero",
+          "DiaString": "04",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Viejo Molino"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230204"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230224rompiendoespejos.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Rompiendo Espejos",
+      "Fecha": "Viernes 24 de Febrero 23.59hs",
+      "Lugar": "El Perla Eventos",
+      "Codigo": "SHOW006117",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021503",
+          "Fecha": "2023-02-24T23:59:00",
+          "FechaString": "24 de febrero",
+          "DiaString": "24",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Villa Nueva",
+          "Estadio": "El Perla Eventos"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230224"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230218pibeschorros.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Ariel \"El Traidor\" y los Pibes Chorros",
+      "Fecha": "Sábado 18 de Febrero 23.59hs",
+      "Lugar": "Viejo Molino",
+      "Codigo": "SHOW005987",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021493",
+          "Fecha": "2023-02-18T23:59:00",
+          "FechaString": "18 de febrero",
+          "DiaString": "18",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Viejo Molino"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230218"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230210lanzallamas.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Pablo Lanzallamas",
+      "Fecha": "Viernes 10 de Febrero 23.59hs",
+      "Lugar": "Viejo Molino",
+      "Codigo": "SHOW006156",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021492",
+          "Fecha": "2023-02-10T23:59:00",
+          "FechaString": "10 de febrero",
+          "DiaString": "10",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Viejo Molino"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230210"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230211bladys.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Fer Bladys & Negro Videla",
+      "Fecha": "Sábado 11 de Febrero 23.59hs",
+      "Lugar": "Las Palmas",
+      "Codigo": "SHOW006160",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021527",
+          "Fecha": "2023-02-11T23:59:00",
+          "FechaString": "11 de febrero",
+          "DiaString": "11",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Las Palmas"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230211"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230204lanzallamas.jpeg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Pablo Lanzallamas",
+      "Fecha": "Sábado 4 de Febrero 23.59hs",
+      "Lugar": "Sala de la Rey",
+      "Codigo": "SHOW006159",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021506",
+          "Fecha": "2023-02-04T23:59:00",
+          "FechaString": "4 de febrero",
+          "DiaString": "04",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Sala del Rey"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230204"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230217aniv.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "2° Aniversario de Viejo Molino con Sandro, Germain & Titan",
+      "Fecha": "Viernes 17 de Febrero 23.59hs",
+      "Lugar": "Viejo Molino",
+      "Codigo": "SHOW006141",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021321",
+          "Fecha": "2023-02-17T23:59:00",
+          "FechaString": "17 de febrero",
+          "DiaString": "17",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Viejo Molino"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230217"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230211cr.jpeg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Cristian Reynoso",
+      "Fecha": "Sábado 11 de Febrero 23.59hs",
+      "Lugar": "El Perla Eventos",
+      "Codigo": "SHOW006040",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021526",
+          "Fecha": "2023-02-11T23:59:00",
+          "FechaString": "11 de febrero",
+          "DiaString": "11",
+          "MesString": "febrero",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Villa Nueva",
+          "Estadio": "El Perla Eventos"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230211"
+    }
+  ],
+  "EventosNuevos": [],
+  "EventosProximamente": [],
+  "TieneEventosNuevos": false,
+  "TieneEventosProximamente": false,
+  "RankingImage1": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2023-01-02 at 15.41.56.jpeg",
+  "RankingCodigo1": "SHOW005838",
+  "RankingImageTitle1": "Festival Internacional de Peñas Villa Maria 2023 - Edición 55°",
+  "RankingImageFecha1": "Viernes 10, Sábado 11, Domingo 12, Lunes 13 y Martes 14 de Feb 20hs",
+  "RankingImageLugar1": "Anfi Villa Maria",
+  "RankingImage2": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2023-01-02 at 15.41.56.jpeg",
+  "RankingCodigo2": "SHOW005838",
+  "RankingImageTitle2": "Festival Internacional de Peñas Villa Maria 2023 - Edición 55°",
+  "RankingImageFecha2": "Viernes 10, Sábado 11, Domingo 12, Lunes 13 y Martes 14 de Feb 20hs",
+  "RankingImageLugar2": "Anfi Villa Maria"
+}

@@ -52,8 +52,17 @@ context('Viewport', () => {
     cy.wait(200)
     cy.viewport('iphone-4', 'landscape')
     cy.wait(200)
+  
 
     // The viewport will be reset back to the default dimensions
     // in between tests (the  default can be set in cypress.json)
+
+    const { defineConfig } = require('cypress')
+
+    //Pruebas de Orion
+    module.exports = defineConfig({
+    viewportWidth: 1500,
+    viewportHeight: 1000
+})
   })
 })

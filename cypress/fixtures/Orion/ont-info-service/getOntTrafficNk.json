@@ -1,0 +1,13 @@
+{
+  "status": "OK",
+  "traffic": [
+    {
+      "medicion": 1,
+      "upstreamBytes": 3035,
+      "downStreamBytes": 3442,
+      "t0": "2023-03-21 12:04:36",
+      "t1": "2023-03-21 12:04:48",
+      "interval": 10
+    }
+  ]
+}

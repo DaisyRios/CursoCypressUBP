@@ -1,0 +1,29 @@
+{
+  "resultMessage": "OK",
+  "data": [
+    {
+      "id": 3,
+      "description": "FENOMENOS CLIMATICOS",
+      "ivrId": "3",
+      "enabled": true
+    },
+    {
+      "id": 1,
+      "description": "MEJORAS EN NUESTRA RED",
+      "ivrId": "1",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "description": "ROTURA INTENCIONAL EN NUESTRA RED",
+      "ivrId": "2",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "description": "SITUACIONES AJENAS A CLARO",
+      "ivrId": "4",
+      "enabled": true
+    }
+  ]
+}

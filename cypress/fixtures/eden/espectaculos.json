@@ -1,0 +1,1068 @@
+{
+  "Eventos": [
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/alesanzag.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Alejandro Sanz",
+      "Fecha": "Lunes 1 de Mayo 21hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW006131",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021278",
+          "Fecha": "2023-05-01T21:00:00",
+          "FechaString": "1 de mayo",
+          "DiaString": "01",
+          "MesString": "mayo",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230501"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230728lpda.jpeg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Las Pastillas del Abuelo",
+      "Fecha": "Viernes 28 de Julio 21hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW005986",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021610",
+          "Fecha": "2023-07-28T21:00:00",
+          "FechaString": "28 de julio",
+          "DiaString": "28",
+          "MesString": "julio",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230728"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/donosv_salta_1404_03.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Don Osvaldo - Salta",
+      "Fecha": "Viernes 14 de Abril 20hs",
+      "Lugar": "Estadio DELMI",
+      "Codigo": "SHOW006174",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021594",
+          "Fecha": "2023-04-14T20:00:00",
+          "FechaString": "14 de abril",
+          "DiaString": "14",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Salta",
+          "Estadio": "Estadio DELMI"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230414"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/estelares-pdlm-2005-eden.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Estelares",
+      "Fecha": "Sábado 20 de Mayo 20hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW006173",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021585",
+          "Fecha": "2023-05-20T20:00:00",
+          "FechaString": "20 de mayo",
+          "DiaString": "20",
+          "MesString": "mayo",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230520"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/lakongaedenweb1.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "La Konga 20 Años",
+      "Fecha": "Viernes 14 y Sábado 15 de Abril 23.59hs",
+      "Lugar": "Forja",
+      "Codigo": "SHOW005788",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021619",
+          "Fecha": "2023-04-14T23:59:00",
+          "FechaString": "14 de abril",
+          "DiaString": "14",
+          "MesString": "abril",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Forja"
+        },
+        {
+          "Codigo": "FUNC021621",
+          "Fecha": "2023-04-15T23:59:00",
+          "FechaString": "15 de abril",
+          "DiaString": "15",
+          "MesString": "abril",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Forja"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230414"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/donosv_clubaleman_0323_eden.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Don Osvaldo",
+      "Fecha": "Viernes 24 de Marzo 20hs",
+      "Lugar": "Club Aleman - Villa Ballester",
+      "Codigo": "SHOW006166",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021559",
+          "Fecha": "2023-03-24T20:00:00",
+          "FechaString": "24 de marzo",
+          "DiaString": "24",
+          "MesString": "marzo",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Bs As",
+          "Estadio": "Club Aleman - Villa Ballester"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230324"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230101unplan.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Un Plan Perfecto",
+      "Fecha": "Jueves 6 de Abril 22hs, Viernes 7 y Sabado 8 de Abril 21.30hs y 23.30hs",
+      "Lugar": "Teatro del Lago",
+      "Codigo": "SHOW006132",
+      "Categorias": "[\"todos\",\"TEA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021632",
+          "Fecha": "2023-04-06T22:00:00",
+          "FechaString": "6 de abril",
+          "DiaString": "06",
+          "MesString": "abril",
+          "HoraString": "22:00 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021633",
+          "Fecha": "2023-04-07T21:30:00",
+          "FechaString": "7 de abril",
+          "DiaString": "07",
+          "MesString": "abril",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021634",
+          "Fecha": "2023-04-07T23:30:00",
+          "FechaString": "7 de abril",
+          "DiaString": "07",
+          "MesString": "abril",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021635",
+          "Fecha": "2023-04-08T21:30:00",
+          "FechaString": "8 de abril",
+          "DiaString": "08",
+          "MesString": "abril",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        },
+        {
+          "Codigo": "FUNC021636",
+          "Fecha": "2023-04-08T23:30:00",
+          "FechaString": "8 de abril",
+          "DiaString": "08",
+          "MesString": "abril",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230406"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/fuerzabrt_pdlm_03.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Fuerza Bruta",
+      "Fecha": "Del 2 al 9 de Abril 20hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW006150",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021387",
+          "Fecha": "2023-04-02T20:00:00",
+          "FechaString": "2 de abril",
+          "DiaString": "02",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        },
+        {
+          "Codigo": "FUNC021388",
+          "Fecha": "2023-04-03T20:00:00",
+          "FechaString": "3 de abril",
+          "DiaString": "03",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        },
+        {
+          "Codigo": "FUNC021389",
+          "Fecha": "2023-04-04T20:00:00",
+          "FechaString": "4 de abril",
+          "DiaString": "04",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        },
+        {
+          "Codigo": "FUNC021390",
+          "Fecha": "2023-04-06T20:00:00",
+          "FechaString": "6 de abril",
+          "DiaString": "06",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        },
+        {
+          "Codigo": "FUNC021391",
+          "Fecha": "2023-04-07T20:00:00",
+          "FechaString": "7 de abril",
+          "DiaString": "07",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        },
+        {
+          "Codigo": "FUNC021392",
+          "Fecha": "2023-04-08T20:00:00",
+          "FechaString": "8 de abril",
+          "DiaString": "08",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        },
+        {
+          "Codigo": "FUNC021393",
+          "Fecha": "2023-04-09T20:00:00",
+          "FechaString": "9 de abril",
+          "DiaString": "09",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230402"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230415do.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Don Osvaldo TUCUMAN",
+      "Fecha": "Sábado 15 de Abril 22hs",
+      "Lugar": "Club Atlético Central Córdoba ",
+      "Codigo": "SHOW003259",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021593",
+          "Fecha": "2023-04-15T22:00:00",
+          "FechaString": "15 de abril",
+          "DiaString": "15",
+          "MesString": "abril",
+          "HoraString": "22:00 Hs",
+          "Ciudad": "Tucuman",
+          "Estadio": "Club Atlético Central Cordoba"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230415"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/edenentradas-1000x500.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Guasones",
+      "Fecha": "Viernes 2 de Junio 21hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW000239",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021600",
+          "Fecha": "2023-06-02T21:00:00",
+          "FechaString": "2 de junio",
+          "DiaString": "02",
+          "MesString": "junio",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230602"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/airbag_pdlm_171023_03.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Airbag",
+      "Fecha": "Sábado 17 de Junio 20hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW000381",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021603",
+          "Fecha": "2023-06-17T20:00:00",
+          "FechaString": "17 de junio",
+          "DiaString": "17",
+          "MesString": "junio",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230617"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/babasonicos_pdlm_1205_03.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Babasonicos",
+      "Fecha": "Viernes 12 de Mayo 21hs",
+      "Lugar": "Plaza de la Música",
+      "Codigo": "SHOW005770",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021587",
+          "Fecha": "2023-05-12T21:00:00",
+          "FechaString": "12 de mayo",
+          "DiaString": "12",
+          "MesString": "mayo",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230512"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230311pelusa.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "El Rey Pelusa",
+      "Fecha": "Sábado 11 de Marzo 23.30hs",
+      "Lugar": "Forja",
+      "Codigo": "SHOW000380",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021455",
+          "Fecha": "2023-03-11T23:30:00",
+          "FechaString": "11 de marzo",
+          "DiaString": "11",
+          "MesString": "marzo",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Forja"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230311"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/equilibrista2023.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "El Equilibrista - Mauricio Dayub ",
+      "Fecha": "Viernes 17 y Sábado 18 de Marzo 21hs",
+      "Lugar": "Sala de las Americas",
+      "Codigo": "SHOW005905",
+      "Categorias": "[\"todos\",\"TEA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021474",
+          "Fecha": "2023-03-17T21:00:00",
+          "FechaString": "17 de marzo",
+          "DiaString": "17",
+          "MesString": "marzo",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Sala de las Americas"
+        },
+        {
+          "Codigo": "FUNC021475",
+          "Fecha": "2023-03-18T21:00:00",
+          "FechaString": "18 de marzo",
+          "DiaString": "18",
+          "MesString": "marzo",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Sala de las Americas"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230317"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2023-02-28 at 14.03.30.jpeg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Dale Q Va",
+      "Fecha": "Sábado 11 de Marzo 23.59hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW001934",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021602",
+          "Fecha": "2023-03-11T23:59:00",
+          "FechaString": "11 de marzo",
+          "DiaString": "11",
+          "MesString": "marzo",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230311"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230317ulises.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Ulises Bueno",
+      "Fecha": "Viernes 17 de Marzo 23.59hs ",
+      "Lugar": "Estadio del Centro",
+      "Codigo": "SHOW005757",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021616",
+          "Fecha": "2023-03-17T23:59:00",
+          "FechaString": "17 de marzo",
+          "DiaString": "17",
+          "MesString": "marzo",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Estadio del Centro"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230317"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/ldv-cordoba-ticketera-1000x500 (1).jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "La Delio Valdez",
+      "Fecha": "Sábado 3 de Junio 21hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW005792",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021586",
+          "Fecha": "2023-06-03T20:00:00",
+          "FechaString": "3 de junio",
+          "DiaString": "03",
+          "MesString": "junio",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230603"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/2023moldavsky.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "El método Moldavsky",
+      "Fecha": "Viernes 14 de Abril 21 y Sábado 15 Abril 20hs ",
+      "Lugar": "Sala de las Americas",
+      "Codigo": "SHOW006157",
+      "Categorias": "[\"todos\",\"TEA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021494",
+          "Fecha": "2023-04-14T21:00:00",
+          "FechaString": "14 de abril",
+          "DiaString": "14",
+          "MesString": "abril",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Sala de las Americas"
+        },
+        {
+          "Codigo": "FUNC021495",
+          "Fecha": "2023-04-15T20:00:00",
+          "FechaString": "15 de abril",
+          "DiaString": "15",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Sala de las Americas"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230414"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230318sj.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "San Junipero",
+      "Fecha": "Sábado 18 de Marzo 23.59hs",
+      "Lugar": "Studio Theater",
+      "Codigo": "SHOW005893",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021622",
+          "Fecha": "2023-03-18T23:59:00",
+          "FechaString": "18 de marzo",
+          "DiaString": "18",
+          "MesString": "marzo",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Studio Theater"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230318"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230310zanonifest.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Zanoni Fest",
+      "Fecha": "Viernes 10 de Marzo 23hs",
+      "Lugar": "1915 Eventos Villa Allende",
+      "Codigo": "SHOW005817",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021543",
+          "Fecha": "2023-03-10T23:00:00",
+          "FechaString": "10 de marzo",
+          "DiaString": "10",
+          "MesString": "marzo",
+          "HoraString": "23:00 Hs",
+          "Ciudad": "Villa Allende",
+          "Estadio": "1915 Eventos"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230310"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230311lb.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "La Barra",
+      "Fecha": "Sábado 11 de Marzo 23.59hs",
+      "Lugar": "Villa Retiro",
+      "Codigo": "SHOW005819",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021640",
+          "Fecha": "2023-03-11T23:59:00",
+          "FechaString": "11 de marzo",
+          "DiaString": "11",
+          "MesString": "marzo",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Villa Retiro"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230311"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230310kapanga.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Kapanga",
+      "Fecha": "Viernes 10 de Marzo 23.00hs",
+      "Lugar": "El Perla Eventos",
+      "Codigo": "SHOW006001",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021574",
+          "Fecha": "2023-03-10T23:00:00",
+          "FechaString": "10 de marzo",
+          "DiaString": "10",
+          "MesString": "marzo",
+          "HoraString": "23:00 Hs",
+          "Ciudad": "Villa Nueva",
+          "Estadio": "El Perla Eventos"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230310"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230317dc.png",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Damian Cordoba",
+      "Fecha": "Viernes 17 de Marzo 23.59hs",
+      "Lugar": "Atenas",
+      "Codigo": "SHOW005751",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021639",
+          "Fecha": "2023-03-17T23:59:00",
+          "FechaString": "17 de marzo",
+          "DiaString": "17",
+          "MesString": "marzo",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Atenas"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230317"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230401ondavaga.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Onda Vaga",
+      "Fecha": "Sábado 4 de Abril 21hs",
+      "Lugar": "Studio Theater",
+      "Codigo": "SHOW006165",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021554",
+          "Fecha": "2023-04-01T21:00:00",
+          "FechaString": "1 de abril",
+          "DiaString": "01",
+          "MesString": "abril",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Studio Theater"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230401"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230318cachumba.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Cachumba",
+      "Fecha": "Sábado 18 de Marzo 23.59hs",
+      "Lugar": "Estadio del Centro",
+      "Codigo": "SHOW005805",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021641",
+          "Fecha": "2023-03-18T23:59:00",
+          "FechaString": "18 de marzo",
+          "DiaString": "18",
+          "MesString": "marzo",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Estadio del Centro"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230318"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230416gala.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Gala Tchaikovsky",
+      "Fecha": "Domingo 16 de Abril 20hs",
+      "Lugar": "Teatro del Lago",
+      "Codigo": "SHOW006179",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021617",
+          "Fecha": "2023-04-16T20:00:00",
+          "FechaString": "16 de abril",
+          "DiaString": "16",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Carlos Paz",
+          "Estadio": "Teatro del Lago"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230416"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/ky_clubparaguay_2904_1000x500.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Koino Yokan",
+      "Fecha": "Sábado 29 de Abril 20hs",
+      "Lugar": "Club Paraguay",
+      "Codigo": "SHOW006180",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021623",
+          "Fecha": "2023-04-29T20:00:00",
+          "FechaString": "29 de abril",
+          "DiaString": "29",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Club Paraguay"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230429"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230513carasextrañas.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Caras Extrañas",
+      "Fecha": "Sábado 13 de Mayo 20hs",
+      "Lugar": "Club Paraguay",
+      "Codigo": "SHOW006171",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021582",
+          "Fecha": "2023-05-13T20:00:00",
+          "FechaString": "13 de mayo",
+          "DiaString": "13",
+          "MesString": "mayo",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Club Paraguay"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230513"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/sdp_clubparaguay_1504-03.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Sueño de Pescado",
+      "Fecha": "Sábado 15 de Abril 20hs",
+      "Lugar": "Club Paraguay",
+      "Codigo": "SHOW006172",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021583",
+          "Fecha": "2023-04-15T20:00:00",
+          "FechaString": "15 de abril",
+          "DiaString": "15",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Club Paraguay"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230415"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230311des.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Desakta2",
+      "Fecha": "Sábado 11 de Marzo 23.59hs",
+      "Lugar": "Margarita Disco",
+      "Codigo": "SHOW005978",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021615",
+          "Fecha": "2023-03-11T23:59:00",
+          "FechaString": "11 de marzo",
+          "DiaString": "11",
+          "MesString": "marzo",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Margarita Disco"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230311"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2023-03-06 at 18.35.07.jpeg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Negro Videla & Gaspar Gigena",
+      "Fecha": "Sábado 11 de Marzo 23.59hs",
+      "Lugar": "El Perla Eventos",
+      "Codigo": "SHOW006106",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021628",
+          "Fecha": "2023-03-11T23:59:00",
+          "FechaString": "11 de marzo",
+          "DiaString": "11",
+          "MesString": "marzo",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Villa Nueva",
+          "Estadio": "El Perla Eventos"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230311"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2023-03-03 at 14.34.57.jpeg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Vuelve la Original! Fiesta 70 80",
+      "Fecha": "Sábado 29 de Abril 22hs",
+      "Lugar": "Studio Theater",
+      "Codigo": "SHOW006176",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021612",
+          "Fecha": "2023-04-29T23:30:00",
+          "FechaString": "29 de abril",
+          "DiaString": "29",
+          "MesString": "abril",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Studio Theater"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230429"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230416horcas.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Horcas",
+      "Fecha": "Domingo 16 de Abril 20hs",
+      "Lugar": "Casa Babylon",
+      "Codigo": "SHOW006177",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021613",
+          "Fecha": "2023-04-16T20:00:00",
+          "FechaString": "16 de abril",
+          "DiaString": "16",
+          "MesString": "abril",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Casa Babylon"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230416"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2023-03-07 at 09.49.04.jpeg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "El Turco Julio",
+      "Fecha": "Sábado 18 de Marzo 23.59hs",
+      "Lugar": "El Perla Eventos",
+      "Codigo": "SHOW005810",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021629",
+          "Fecha": "2023-03-18T23:59:00",
+          "FechaString": "18 de marzo",
+          "DiaString": "18",
+          "MesString": "marzo",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Villa Nueva",
+          "Estadio": "El Perla Eventos"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230318"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230317bainotti.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Marcos Bainotti",
+      "Fecha": "Viernes 17 de Marzo 23.59hs",
+      "Lugar": "Viejo Molino",
+      "Codigo": "SHOW006002",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021627",
+          "Fecha": "2023-03-17T23:59:00",
+          "FechaString": "17 de marzo",
+          "DiaString": "17",
+          "MesString": "marzo",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Viejo Molino"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230317"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230317losduarte.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "La Peña de los Duarte - La Callejera",
+      "Fecha": "Viernes 17 de Marzo 22hs",
+      "Lugar": "Espacio Serrano - Salsipuedes",
+      "Codigo": "SHOW005948",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021609",
+          "Fecha": "2023-03-17T22:00:00",
+          "FechaString": "17 de marzo",
+          "DiaString": "17",
+          "MesString": "marzo",
+          "HoraString": "22:00 Hs",
+          "Ciudad": "Salsipuedes",
+          "Estadio": "Espacio Serrano"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230317"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230311themonkey.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "The Monkey ",
+      "Fecha": "Sábado 11 de Marzo 23.59hs",
+      "Lugar": "Las Palmas",
+      "Codigo": "SHOW005991",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021595",
+          "Fecha": "2023-03-11T23:59:00",
+          "FechaString": "11 de marzo",
+          "DiaString": "11",
+          "MesString": "marzo",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Las Palmas"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230311"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230316achalay.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Achalay May Broder",
+      "Fecha": "Jueves 16 de Marzo 22hs",
+      "Lugar": "Maipu Show",
+      "Codigo": "SHOW006175",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021606",
+          "Fecha": "2023-03-16T22:00:00",
+          "FechaString": "16 de marzo",
+          "DiaString": "16",
+          "MesString": "marzo",
+          "HoraString": "22:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Maipu Show"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230316"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230310sandro.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Sandro & Lanzallamas",
+      "Fecha": "Viernes 10 de Marzo 23.59hs",
+      "Lugar": "Viejo Molino",
+      "Codigo": "SHOW006181",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021624",
+          "Fecha": "2023-03-10T23:59:00",
+          "FechaString": "10 de marzo",
+          "DiaString": "10",
+          "MesString": "marzo",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Viejo Molino"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230310"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20230311corteamericano.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Corte Americano",
+      "Fecha": "Sábado 11 de Marzo 20hs",
+      "Lugar": "Casa Babylon",
+      "Codigo": "SHOW006170",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021575",
+          "Fecha": "2023-03-11T20:00:00",
+          "FechaString": "11 de marzo",
+          "DiaString": "11",
+          "MesString": "marzo",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Casa Babylon"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20230311"
+    }
+  ],
+  "EventosNuevos": [],
+  "EventosProximamente": [],
+  "TieneEventosNuevos": false,
+  "TieneEventosProximamente": false,
+  "RankingImage1": "https://static.edenentradas.com.ar/sitio/shows/babasonicos_pdlm_1205_03.jpg",
+  "RankingCodigo1": "SHOW005770",
+  "RankingImageTitle1": "Babasonicos",
+  "RankingImageFecha1": "Viernes 12 de May 21hs",
+  "RankingImageLugar1": "Plaza de la Música",
+  "RankingImage2": "https://static.edenentradas.com.ar/sitio/shows/alesanzag.jpg",
+  "RankingCodigo2": "SHOW006131",
+  "RankingImageTitle2": "Alejandro Sanz",
+  "RankingImageFecha2": "Lunes 1 de May 21hs",
+  "RankingImageLugar2": "Plaza de la Musica"
+}

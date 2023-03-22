@@ -4,7 +4,11 @@
   "description": "Curso de Cypress",
   "main": "index.js",
   "scripts": {
-    "cypress:run:regression:test": " npx cypress run -e baseUrl=http://aytomationteststore.com/ -s cypress/integretion/miTests.spect.js "
+    "cypress:open:desktop:test": "npx cypress open -e baseUrl=https://automationteststore.com/",
+    "cypress:open:desktop:test:baseline": "npx cypress open -e baseUrl=https://automationteststore.com/,updateSnapshots=true",
+    "cypress:open:mobile:test": "npx cypress open -c viewportWidth=375,viewportHeight=667,userAgent=\"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X)\" -e baseUrl=https://automationteststore.com/",
+    "cypress:run:regression:desktop:test": "npx cypress run -e baseUrl=https://automationteststore.com/,grepTags=@regression -s cypress/integration/*.spec.js",
+    "cypress:run:regression:mobile:test": "npx cypress run -c viewportWidth=375,viewportHeight=667,userAgent=\"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X)\" -e baseUrl=https://automationteststore.com/,grepTags=@regression -s cypress/integration/*.spec.js"
   },
   "repository": {
     "type": "git",
@@ -22,8 +26,9 @@
   },
   "homepage": "https://github.com/DaisyRios/CursoCypressUBP#readme",
   "dependencies": {
-    "ajv": "^8.11.0",
-    "cypress": "^9.7.0"
+    "ajv": "^8.12.0",
+    "cypress": "^9.7.0",
+    "cypress-grep": "^2.14.0"
   },
   "devDependencies": {
     "cypress-mochawesome-reporter": "^3.2.3",

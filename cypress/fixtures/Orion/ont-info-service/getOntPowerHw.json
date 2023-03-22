@@ -1,0 +1,17 @@
+{
+  "finalDescription": "OK",
+  "data": {
+    "oltlaserType": "--",
+    "oltopticsTxPower": "541",
+    "ontpowerList": [
+      {
+        "statusDesc": "Succeeded.",
+        "ontId": 0,
+        "opticsTxPower": "227",
+        "opticsRxPower": "-2180",
+        "opticsRxPowerByOlt": "-2658"
+      }
+    ]
+  },
+  "status": null
+}
